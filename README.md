@@ -38,6 +38,3 @@ I’m always looking to contribute to exciting projects, collaborate with like-m
 ## 👨‍💻 Languages and Tools:
 HTML5CSS3PythonCC++gitGitHub
 
-## 🎧 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2jxn3wvvrvlvo2xwukwgu3c0j&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=2jxn3wvvrvlvo2xwukwgu3c0j&redirect=true)
-
