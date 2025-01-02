@@ -19,7 +19,7 @@ As the founder of **Turquoise Technology and Consultancy Ltd.**, I have worked w
 ## 🎓 Education
 With a degree in **Mechanical Engineering** from **Istanbul Technical University**, I bring a unique analytical perspective to software development. My engineering background allows me to blend problem-solving skills with technical expertise to tackle complex challenges.
 
-## 🌐 Skills & Technologies
+## 👨‍💻 Skills & Technologies
 - **Backend:** PHP, Laravel
 - **Frontend:** Vue.js, TailwindCSS
 - **DevOps:** AWS, Docker, CI/CD Pipelines
@@ -34,6 +34,9 @@ I am passionate about leveraging technology to solve complex problems, automate 
 
 ## 🚀 Let’s Build Something Amazing!
 I’m always looking to contribute to exciting projects, collaborate with like-minded professionals, and explore innovative ways to push boundaries in software development. Let’s connect and create impactful solutions together!
+
+## 👨‍💻 Languages and Tools:
+HTML5CSS3PythonCC++gitGitHub
 
 ## 🎧 Now Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2jxn3wvvrvlvo2xwukwgu3c0j&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2jxn3wvvrvlvo2xwukwgu3c0j&redirect=true)
