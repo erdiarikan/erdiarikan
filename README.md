@@ -1,6 +1,6 @@
-# 🚀 Senior Full-Stack Engineer | Head of Engineering at AVRillo | Laravel & Vue.js Specialist
+# 🚀 Senior Software Engineer | Head of Engineering at AVRillo | Laravel & Vue.js Specialist
 
-Welcome! I am a **dedicated and results-oriented Senior Full-Stack Engineer** with extensive experience in leading and delivering cutting-edge software solutions. Over the years, I’ve mastered backend technologies like **PHP** and **Laravel**, complemented by frontend expertise in **VueJS**, **ReactJS**, **Livewire 3** and **TailwindCSS**. My skill set extends to **DevOps tools** such as **AWS**, **Docker**, and **CI/CD pipelines**, ensuring efficient and seamless development and deployment processes.
+Welcome! I am a **dedicated and results-oriented Senior Software Engineer** with extensive experience in leading and delivering cutting-edge software solutions. Over the years, I’ve mastered backend technologies like **PHP** and **Laravel**, complemented by frontend expertise in **VueJS**, **ReactJS**, **Livewire 3** and **TailwindCSS**. My skill set extends to **DevOps tools** such as **AWS**, **Docker**, and **CI/CD pipelines**, ensuring efficient and seamless development and deployment processes.
 
 ## 🌟 Current Role
 As the **Head of Engineering at AVRillo**, I am responsible for driving innovation, streamlining processes, and implementing AI-powered tools to improve organizational efficiency. My efforts have led to:
