@@ -1,9 +1,9 @@
-# 🚀 Senior Software Engineer | Head of Engineering at AVRillo | Laravel & Vue.js Specialist
+# 🚀 Senior Software Engineer | Laravel & Vue.js Specialist
 
 Welcome! I am a **dedicated and results-oriented Senior Software Engineer** with extensive experience in leading and delivering cutting-edge software solutions. Over the years, I’ve mastered backend technologies like **PHP** and **Laravel**, complemented by frontend expertise in **VueJS**, **ReactJS**, **Livewire 3** and **TailwindCSS**. My skill set extends to **DevOps tools** such as **AWS**, **Docker**, and **CI/CD pipelines**, ensuring efficient and seamless development and deployment processes.
 
-## 🌟 Current Role
-As the **Head of Engineering at AVRillo**, I am responsible for driving innovation, streamlining processes, and implementing AI-powered tools to improve organizational efficiency. My efforts have led to:
+## 🌟 Previous Role
+As the **Head of Engineering at AVRillo**, I was responsible for driving innovation, streamlining processes, and implementing AI-powered tools to improve organizational efficiency. My efforts had led to:
 - A **90% reduction in document analysis times**.
 - A **40% increase in team productivity**.
 - Significant improvements in operational workflows, resulting in better client satisfaction and ROI.
@@ -21,7 +21,7 @@ With a degree in **Mechanical Engineering** from **Istanbul Technical University
 
 ## 👨‍💻 Skills & Technologies
 - **Backend:** PHP, Laravel
-- **Frontend:** Vue.js, TailwindCSS
+- **Frontend:** Vue.js, React.js, TailwindCSS
 - **DevOps:** AWS, Docker, CI/CD Pipelines
 - **Other:** AI Tools, Workflow Automation
 
@@ -34,7 +34,4 @@ I am passionate about leveraging technology to solve complex problems, automate 
 
 ## 🚀 Let’s Build Something Amazing!
 I’m always looking to contribute to exciting projects, collaborate with like-minded professionals, and explore innovative ways to push boundaries in software development. Let’s connect and create impactful solutions together!
-
-## 👨‍💻 Languages and Tools:
-HTML5CSS3PythonCC++gitGitHub
 
