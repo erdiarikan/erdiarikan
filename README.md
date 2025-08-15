@@ -1,6 +1,6 @@
 # 🚀 Senior Software Engineer | Laravel & Vue.js Specialist
 
-Welcome! I am a **dedicated and results-oriented Senior Software Engineer** with extensive experience in leading and delivering cutting-edge software solutions. Over the years, I’ve mastered backend technologies like **PHP** and **Laravel**, complemented by frontend expertise in **VueJS**, **ReactJS**, **Livewire 3** and **TailwindCSS**. My skill set extends to **DevOps tools** such as **AWS**, **Docker**, and **CI/CD pipelines**, ensuring efficient and seamless development and deployment processes.
+Welcome! I am a **dedicated and results-oriented Senior Software Engineer** with extensive experience in leading and delivering cutting-edge software solutions. I am currently working at Atarim. Over the years, I’ve mastered backend technologies like **PHP** and **Laravel**, complemented by frontend expertise in **VueJS**, **ReactJS**, **Livewire 3** and **TailwindCSS**. My skill set extends to **DevOps tools** such as **AWS**, **Docker**, and **CI/CD pipelines**, ensuring efficient and seamless development and deployment processes.
 
 ## 🌟 Previous Role
 As the **Head of Engineering at AVRillo**, I was responsible for driving innovation, streamlining processes, and implementing AI-powered tools to improve organizational efficiency. My efforts had led to:
